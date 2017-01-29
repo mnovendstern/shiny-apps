@@ -37,6 +37,7 @@ b <- list(
       width = 0.5)
 
 # UI code 
+
 ui <- fluidPage(
   
     br(),
